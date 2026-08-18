@@ -2,7 +2,7 @@
 
   <!-- Dynamic Cyber Spider / Coding Typing SVG Banner -->
   <a href="https://github.com/techhandoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=70&lines=🕷️+const+spiderDev+%3D+%22Krrish+Handoo%22%3B;while(alive)+%7B+weaveWebOfIntelligentSystems()%3B+%7D;git+commit+-m+%22Feat%3A+Distributed+Microservices+%26+AI%22;const+stack+%3D+%5B%22Spring+Boot%22%2C+%22React%22%2C+%22TypeScript%22%2C+%22Groq+LLM%22%5D%3B" alt="Krrish Handoo Spider Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=70&lines=const+spiderDev+%3D+%22Krrish+Handoo%22%3B;while(alive)+%7B+weaveWebOfIntelligentSystems()%3B+%7D;git+commit+-m+%22Feat%3A+Distributed+Microservices+%26+AI%22;const+stack+%3D+%5B%22Spring+Boot%22%2C+%22React%22%2C+%22TypeScript%22%2C+%22Groq+LLM%22%5D%3B" alt="Krrish Handoo Spider Typing Banner" />
   </a>
 
   <p align="center">
@@ -237,19 +237,24 @@ $ python3 main.py --analyze
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/techhandoo">
-          <img src="https://github-readme-stats.vercel.app/api?username=techhandoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=a855f7&count_private=true&include_all_commits=true" width="100%" alt="Krrish's GitHub Stats" />
+          <img src="https://streak-stats.demolab.com/?user=techhandoo&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="Krrish's Streak Stats" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/techhandoo">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=techhandoo&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="Krrish's Streak Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techhandoo&theme=tokyonight" width="100%" alt="Krrish's GitHub Stats" />
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" width="50%">
         <a href="https://github.com/techhandoo">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techhandoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&langs_count=8" width="80%" alt="Top Languages" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techhandoo&theme=tokyonight" width="100%" alt="Top Languages by Repo" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/techhandoo">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techhandoo&theme=tokyonight" width="100%" alt="Top Languages by Commit" />
         </a>
       </td>
     </tr>
