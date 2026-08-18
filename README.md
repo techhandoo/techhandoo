@@ -237,7 +237,7 @@ $ python3 main.py --analyze
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/techhandoo">
-          <img src="https://streak-stats.demolab.com/?user=techhandoo&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="Krrish's Streak Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techhandoo&theme=tokyonight" width="100%" alt="Krrish's Profile Details" />
         </a>
       </td>
       <td align="center" width="50%">
