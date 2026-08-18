@@ -15,7 +15,7 @@
       <img src="https://komarev.com/ghpvc/?username=techhandoo&style=flat-square&color=00f2fe&label=RADAR+VISITS" alt="Profile Visits" />
     </a>
     <a href="https://github.com/techhandoo?tab=repositories">
-      <img src="https://img.shields.io/badge/Spider--Grid-17_Repos-a855f7?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+      <img src="https://img.shields.io/badge/Spider--Grid-18_Repos-a855f7?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
     </a>
     <a href="https://linkedin.com/in/krrish-handoo">
       <img src="https://img.shields.io/badge/Status-Weaving_Code-00ff88?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
