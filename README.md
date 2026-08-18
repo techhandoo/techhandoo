@@ -1,24 +1,24 @@
 <div align="center">
 
-  <!-- Dynamic Cyber/Coding Typing SVG Banner -->
+  <!-- Dynamic Cyber Spider / Coding Typing SVG Banner -->
   <a href="https://github.com/techhandoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=70&lines=const+engineer+%3D+%22Krrish+Handoo%22%3B;while(alive)+%7B+buildIntelligentSystems()%3B+%7D;git+commit+-m+%22Feat%3A+Distributed+Microservices+%26+AI%22;const+stack+%3D+%5B%22Spring+Boot%22%2C+%22React%22%2C+%22TypeScript%22%2C+%22Groq+LLM%22%5D%3B" alt="Krrish Handoo Terminal Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=70&lines=🕷️+const+spiderDev+%3D+%22Krrish+Handoo%22%3B;while(alive)+%7B+weaveWebOfIntelligentSystems()%3B+%7D;git+commit+-m+%22Feat%3A+Distributed+Microservices+%26+AI%22;const+stack+%3D+%5B%22Spring+Boot%22%2C+%22React%22%2C+%22TypeScript%22%2C+%22Groq+LLM%22%5D%3B" alt="Krrish Handoo Spider Typing Banner" />
   </a>
 
   <p align="center">
-    <code>&gt; SYSTEM.STATUS: ONLINE | ARCHITECTING DISTRIBUTED SYSTEMS & AI AGENTS</code>
+    <code>🕷️ [SPIDER-PROTOCOL ONLINE] // WEAVING DISTRIBUTED NETWORKS & AI AGENT ARCHITECTURES</code>
   </p>
 
-  <!-- Live Hacker/Dev Metrics Badges -->
+  <!-- Live Hacker/Spider Badges -->
   <p align="center">
     <a href="https://github.com/techhandoo">
-      <img src="https://komarev.com/ghpvc/?username=techhandoo&style=flat-square&color=00f2fe&label=TERMINAL+VISITS" alt="Profile Visits" />
+      <img src="https://komarev.com/ghpvc/?username=techhandoo&style=flat-square&color=00f2fe&label=RADAR+VISITS" alt="Profile Visits" />
     </a>
     <a href="https://github.com/techhandoo?tab=repositories">
-      <img src="https://img.shields.io/badge/Repos-17_Public-a855f7?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+      <img src="https://img.shields.io/badge/Spider--Grid-17_Repos-a855f7?style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
     </a>
     <a href="https://linkedin.com/in/krrish-handoo">
-      <img src="https://img.shields.io/badge/Status-Ready_To_Deploy-00ff88?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Ready To Deploy" />
+      <img src="https://img.shields.io/badge/Status-Weaving_Code-00ff88?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
     </a>
   </p>
 
@@ -44,24 +44,24 @@
 <br/>
 
 <!-- Terminal Window Showcase -->
-## 🖥️ `$ cat /etc/developer/krrish_handoo.ts`
+## 🕷️ `$ cat /etc/developer/spider_protocol.ts`
 
 ```typescript
-interface SoftwareEngineer {
-  name: string;
+interface SpiderDeveloper {
+  alias: string;
   handle: string;
   role: string;
-  coreStack: string[];
+  coreWeb: string[];
   architecturePatterns: string[];
   aiTooling: string[];
   philosophy: string;
 }
 
-const krrish: SoftwareEngineer = {
-  name: "Krrish Handoo",
+const krrish: SpiderDeveloper = {
+  alias: "Krrish Handoo",
   handle: "@techhandoo",
   role: "Full Stack & AI Software Engineer",
-  coreStack: ["TypeScript", "React", "Java (Spring Boot)", "Python", "RabbitMQ"],
+  coreWeb: ["TypeScript", "React", "Java (Spring Boot)", "Python", "RabbitMQ"],
   architecturePatterns: [
     "Event-Driven Microservices",
     "High-Throughput Asynchronous Ingestion",
@@ -69,14 +69,14 @@ const krrish: SoftwareEngineer = {
     "Role-Based Access Control (RBAC)"
   ],
   aiTooling: ["Groq LLM Ultra-Fast Inference", "Claude Code Agentic Workflows", "NLP Tokenization"],
-  philosophy: "Write clean, resilient code that scales seamlessly under heavy workloads."
+  philosophy: "Weave resilient digital webs that effortlessly scale under massive traffic."
 };
 
 // Continuous Execution Loop
 while (krrish.isAlive()) {
-  krrish.drinkCoffee();
-  krrish.solveComplexProblems();
-  krrish.gitPushOriginMain();
+  krrish.senseWebEvents();
+  krrish.solveComplexAlgorithms();
+  krrish.deployToCloud();
 }
 ```
 
@@ -227,7 +227,7 @@ $ python3 main.py --analyze
 
   <!-- Interactive Activity Graph -->
   <a href="https://github.com/techhandoo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=techhandoo&theme=tokyo-night&custom_title=Recent%20Contribution%20Flow&area=true&hide_border=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=a855f7" width="100%" alt="Contribution Flow Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=techhandoo&theme=tokyo-night&custom_title=Spider%20Activity%20Flow&area=true&hide_border=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=a855f7" width="100%" alt="Contribution Flow Graph" />
   </a>
 
   <br/><br/>
@@ -261,15 +261,11 @@ $ python3 main.py --analyze
 
 ---
 
-## 🐍 Contribution Graph Eating Snake
+## 🕷️ 3D Cyber-Spider Contribution Grid
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techhandoo/techhandoo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techhandoo/techhandoo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/techhandoo/techhandoo/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Cyber Spider Contribution Grid" />
+</p>
 
 <br/>
 
@@ -292,9 +288,9 @@ $ python3 main.py --analyze
 <div align="center">
 
 ```bash
-$ ping -c 1 krrish.handoo.dev
+$ ping -c 1 spider.handoo.dev
 64 bytes from techhandoo: icmp_seq=1 ttl=64 time=0.042 ms
---- connection established: ready to build awesome software ---
+--- spider-web connection established: ready to build awesome software ---
 ```
 
   <p>Always open to discussing microservice architectures, intelligent agent workflows, and innovative engineering challenges.</p>
@@ -314,7 +310,7 @@ $ ping -c 1 krrish.handoo.dev
   <br/><br/>
 
   <p align="center">
-    <i><code>Built with 💻 & ☕ by <b>Krrish Handoo</b> (@techhandoo)</code></i>
+    <i><code>Built with 🕷️ & 💻 by <b>Krrish Handoo</b> (@techhandoo)</code></i>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=70&section=footer" width="100%"/>
