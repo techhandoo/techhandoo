@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="880" height="180">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; }
+    .dot-0 { fill: #161b22; }
+    .dot-1 { fill: #003b46; }
+    .dot-2 { fill: #07575b; }
+    .dot-3 { fill: #00f2fe; }
+    .dot-4 { fill: #a855f7; }
+    .label { font-family: 'Fira Code', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace; font-size: 11px; fill: #8b949e; }
+    .spider-silk { stroke: #00f2fe; stroke-width: 1.5; stroke-dasharray: 4, 4; fill: none; opacity: 0.7; }
+    @keyframes crawl {
+      0% { transform: translate(60px, 45px); }
+      20% { transform: translate(220px, 95px); }
+      40% { transform: translate(450px, 35px); }
+      60% { transform: translate(620px, 115px); }
+      80% { transform: translate(780px, 55px); }
+      100% { transform: translate(60px, 45px); }
+    }
+    @keyframes pulse {
+      0%, 100% { filter: drop-shadow(0 0 4px #00f2fe); }
+      50% { filter: drop-shadow(0 0 10px #a855f7); }
+    }
+    .spider-sprite {
+      animation: crawl 14s infinite ease-in-out, pulse 3s infinite ease-in-out;
+      font-size: 18px;
+    }
+  </style>
+
+  <rect width="880" height="180" class="bg"/>
+
+  <!-- Contribution Grid Header -->
+  <text x="35" y="28" class="label" fill="#00f2fe" font-weight="bold">🕷️ CYBER-SPIDER COMMIT CRAWLER // LIVE GRID TRAVERSAL</text>
+
+  <!-- Contribution dots background simulation (53 columns x 7 rows) -->
+  <g transform="translate(35, 42)">
+    <!-- Simulated realistic commit density pattern matching techhandoo's history -->
+    <defs>
+      <pattern id="grid-pattern" width="15" height="15" patternUnits="userSpaceOnUse">
+        <rect x="0" y="0" width="11" height="11" rx="2" class="dot-0"/>
+      </pattern>
+    </defs>
+    <rect width="810" height="105" fill="url(#grid-pattern)"/>
+
+    <!-- Active Commit Highlights across matrix -->
+    <!-- Jan-Mar -->
+    <rect x="30" y="15" width="11" height="11" rx="2" class="dot-1"/>
+    <rect x="45" y="30" width="11" height="11" rx="2" class="dot-2"/>
+    <rect x="60" y="45" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="75" y="15" width="11" height="11" rx="2" class="dot-1"/>
+    <rect x="90" y="60" width="11" height="11" rx="2" class="dot-2"/>
+    <rect x="120" y="30" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="135" y="45" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="150" y="15" width="11" height="11" rx="2" class="dot-2"/>
+    <rect x="165" y="75" width="11" height="11" rx="2" class="dot-1"/>
+    <rect x="195" y="45" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="210" y="60" width="11" height="11" rx="2" class="dot-4"/>
+
+    <!-- Apr-Jun -->
+    <rect x="240" y="15" width="11" height="11" rx="2" class="dot-2"/>
+    <rect x="255" y="30" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="270" y="45" width="11" height="11" rx="2" class="dot-1"/>
+    <rect x="300" y="60" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="330" y="30" width="11" height="11" rx="2" class="dot-2"/>
+    <rect x="345" y="45" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="375" y="15" width="11" height="11" rx="2" class="dot-1"/>
+    <rect x="405" y="60" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="420" y="45" width="11" height="11" rx="2" class="dot-4"/>
+
+    <!-- Jul-Aug (Heavy Commits) -->
+    <rect x="450" y="15" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="450" y="30" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="465" y="45" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="480" y="15" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="495" y="30" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="510" y="45" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="525" y="60" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="540" y="15" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="555" y="45" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="585" y="30" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="615" y="60" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="630" y="15" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="660" y="45" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="690" y="30" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="720" y="15" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="750" y="45" width="11" height="11" rx="2" class="dot-3"/>
+    <rect x="765" y="60" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="780" y="30" width="11" height="11" rx="2" class="dot-4"/>
+    <rect x="795" y="15" width="11" height="11" rx="2" class="dot-3"/>
+
+    <!-- Animated Silk Path -->
+    <path d="M 60,45 Q 200,100 450,35 T 780,55" class="spider-silk"/>
+
+    <!-- Crawling Cyber Spider Sprite -->
+    <g class="spider-sprite">
+      <text x="-9" y="6">🕷️</text>
+    </g>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(680, 160)">
+    <text x="-35" y="9" class="label">Less</text>
+    <rect x="0" y="0" width="10" height="10" rx="2" class="dot-0"/>
+    <rect x="15" y="0" width="10" height="10" rx="2" class="dot-1"/>
+    <rect x="30" y="0" width="10" height="10" rx="2" class="dot-2"/>
+    <rect x="45" y="0" width="10" height="10" rx="2" class="dot-3"/>
+    <rect x="60" y="0" width="10" height="10" rx="2" class="dot-4"/>
+    <text x="76" y="9" class="label">More</text>
+  </g>
+</svg>

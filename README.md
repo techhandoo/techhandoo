@@ -266,11 +266,15 @@ $ python3 main.py --analyze
 
 ---
 
-## 🕷️ 3D Cyber-Spider Contribution Grid
+## 🕷️ Cyber-Spider Contribution Grid // Weaving Commit History
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Cyber Spider Contribution Grid" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-spider-contrib/spider-grid-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-spider-contrib/spider-grid-light.svg">
+    <img src="./profile-spider-contrib/spider-grid-dark.svg" width="100%" alt="Cyber-Spider Contribution Grid Crawler" />
+  </picture>
+</div>
 
 <br/>
 
